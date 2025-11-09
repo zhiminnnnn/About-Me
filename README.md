@@ -6,6 +6,7 @@ Hi! I'm Cheng Zhi Min (you can call me Zhi Min) and I'm from Butterworth, Penang
 
 2024-2025: Universiti Teknologi Malaysia Kuala Lumpur
 - Foundation in Physical Science, CGPA: 4.00
+- MUET Band 4.0
 
 2019-2023: SMJK Chung Ling Butterworth
 - SPM: 9A
