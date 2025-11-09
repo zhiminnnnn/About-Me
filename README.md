@@ -10,9 +10,6 @@ Hi! I'm Cheng Zhi Min and I'm from Butterworth, Penang. I'm currently a Year 1 C
 2019-2023: SMJK Chung Ling Butterworth
 - SPM: 9A 1B
 
-2013-2018: SJK(C) Chung Hwa 2, Butterworth
-- UPSR: 6A 2B
-
 # Position
 - Vice Chairman of Chung Ling Butterworth Wind Orchestra (CLBWO)
 
