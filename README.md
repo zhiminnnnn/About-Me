@@ -16,8 +16,8 @@ Hi! I'm Cheng Zhi Min (you can call me Zhi Min) and I'm from Butterworth, Penang
 
 # Skills
 - Canva
-- Microsoft Office (Excel, PowerPoint, Word)
 - Programming Language (C++)
+- Microsoft Office (Excel, PowerPoint, Word)
 - Written Language (Chinese, English, Malay)
 - Spoken Language (Chinese, English, Malay, Hokkien)
 
