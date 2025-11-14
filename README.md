@@ -19,7 +19,7 @@ Hi! I'm Cheng Zhi Min (you can call me Zhi Min) and I'm from Butterworth, Penang
 - Programming Language (C++)
 - Microsoft Office (Excel, PowerPoint, Word)
 - Written Language (Chinese, English, Malay)
-- Spoken Language (Chinese, English, Malay, Hokkien)
+- Spoken Language (Chinese, English, Malay)
 
 # Awards
 - Malaysia International Music Art Festival (MIMAF) 2019 - Gold with Honour
