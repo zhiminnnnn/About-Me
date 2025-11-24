@@ -15,8 +15,13 @@ Hi! I'm Cheng Zhi Min (you can call me Zhi Min) and I'm from Butterworth, Penang
 - SPM: 9A (2A+ 4A 3A-)
 
 # Position
-- Vice Chairman of Chung Ling Butterworth Wind Orchestra (CLBWO)
-- Performer in Losting Music Club
+- SMJK Chung Ling Butterworth
+  - Chung Ling Butterworth Wind Orchestra (CLBWO)
+    - 2019-2023: Active Member
+    - 2020-2021: Assistant Student Conductor
+    - 2021-2022: Assistant Score Keeper
+    - 2021-2023: Section Leader
+    - 2022-2023: Vice Chairman
 
 # Skills
 - Programming Language (C++)
