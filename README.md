@@ -40,3 +40,5 @@ Hi! I'm Cheng Zhi Min (you can call me Zhi Min) and I'm from Butterworth, Penang
 
 # Recent Project
 [Fundamentals of Programming - Final Project](https://github.com/zhiminnnnn/fop-project)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zhiminnnnn?cardType=github&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
