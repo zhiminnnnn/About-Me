@@ -1,7 +1,7 @@
 <div align="justify">
 
 # About Me
-Hi! I'm Zhi Min from Butterworth, Penang. Currently a Year 1 Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM). I enjoy coding, problem-solving and mathematics. Feel free to check out the cool stuff that I've made on my page ;)
+Hi! I'm Zhi Min from Butterworth, Penang. Currently a Year 1 Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM). I enjoy coding, problem-solving and mathematics.
 
 # Education
 2025-Present: Universiti Teknologi Malaysia (JB Campus)
@@ -25,7 +25,6 @@ SMJK Chung Ling Butterworth
 - Chung Ling Butterworth Wind Orchestra (CLBWO)
   - 2022-2023: Vice Chairman
   - 2021-2023: Section Leader
-  - 2020-2021: Assistant Student Conductor
   - 2019-2023: Active Member
   
 
