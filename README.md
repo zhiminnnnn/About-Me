@@ -50,7 +50,6 @@ SMJK Chung Ling Butterworth
 - Malaysia International Music Art Festival (MIMAF) 2019 - Gold with Honour
 
 # Recent Projects
-- [Personal Website](https://zhiminnnnn.github.io)
 - [Fundamentals of Programming - Final Project](https://github.com/zhiminnnnn/fop-project)
 
 # Socials
